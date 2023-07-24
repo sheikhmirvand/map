@@ -1,0 +1,16 @@
+{
+  "cities": [
+    {
+      "cityName": "Yazd",
+      "country": "Iran (Islamic Republic of)",
+      "date": "2023-07-24T06:55:44.862Z",
+      "notes": "weqwe",
+      "emoji": "🇮🇷",
+      "position": {
+        "lat": "31.846101844080618",
+        "lng": "54.33837890625001"
+      },
+      "id": 1
+    }
+  ]
+}
