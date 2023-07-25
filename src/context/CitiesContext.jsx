@@ -1,6 +1,6 @@
 import { createContext, useContext, useEffect, useReducer } from "react";
 import propTypes from "prop-types";
-const baseUrl = "http://localhost:5050";
+const baseUrl = "https://citi-server.vercel.app";
 
 const CitiesContext = createContext();
 
